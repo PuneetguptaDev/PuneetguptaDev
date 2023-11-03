@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuneetguptaDev
+- 👋 Hi, I’m Puneet Gupta
 - 👀 I’m interested in cross platform App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate 
